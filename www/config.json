@@ -1,5 +1,5 @@
 {
-    "app_id" : "com.moodle.moodlemobile",
+    "app_id" : "education.rmutl.ac.th",
     "appname": "Moodle Mobile",
     "desktopappname": "Moodle Desktop",
     "versioncode" : "2023",
@@ -12,7 +12,7 @@
     "demo_sites": {"student": {"url": "https://school.demo.moodle.net", "username": "student", "password": "moodle"}, "teacher": {"url": "https://school.demo.moodle.net", "username": "teacher", "password": "moodle"}},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "https://education.rmutl.ac.th/",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
